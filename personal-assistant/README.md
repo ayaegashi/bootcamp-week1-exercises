@@ -1,3 +1,6 @@
+GitHub repository for this project is in a separate repository: https://github.com/ayaegashi/personal-assistant
+See live project at: https://ayaegashi.github.io/personal-assistant/
+
 # Personal Assistant™ Web App
 
 Over the next few days we'll be learning all about React. To apply what we'll learn, you're going to build a Personal Assistant to help manage your Todos.
